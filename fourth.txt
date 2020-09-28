@@ -2,6 +2,6 @@
 
 This is my first file in the local repository
 
-oChanged a line in my repository
+juChanged a line in my repository
 
 *********END********************
