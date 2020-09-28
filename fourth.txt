@@ -1,8 +1,0 @@
-*********Content****************
-
-This is my first file in the local repository
-
-jnnnnnnnnnnnnn:wq
-uChanged a line in my repository
-
-*********END********************
