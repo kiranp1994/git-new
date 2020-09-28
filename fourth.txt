@@ -1,0 +1,7 @@
+*********Content****************
+
+This is my first file in the local repository
+
+Changed a line in my repository
+
+*********END********************
